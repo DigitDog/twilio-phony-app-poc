@@ -2,6 +2,9 @@
   <head>
   </head>
   <body>
+    <script>
+      alert("wtf");
+    </script>
   test
   </body>
 </html>
